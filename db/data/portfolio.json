@@ -1,0 +1,14 @@
+{
+    "bio": {
+        "firstName": "Timring",
+        "lastName": "Timkwali",
+        "occupation": "Software Engineer",
+        "stacks": ["Android", "Flutter", "React Native", "HTML", "CSS", "JavaScript", "Node JS"]
+    },
+    "about": "Software Engineer with several years experience in building mobile, frontend and backend applications. ",
+    "contact": {
+        "email": "timringperez@gmail.com",
+        "linkedIn": "http://www.linkedin.com/in/timkwali",
+        "twitter": "http://twitter.com/timkwali"
+    }
+}
